@@ -1,4 +1,5 @@
-Meu primeiro sistema no GIT
+Meu SEGUNDO sistema no GIT
 
 Alterando linha de comando
-Alteração feita no MASTER
+
+Uma nova linha adicionada no MASTER
